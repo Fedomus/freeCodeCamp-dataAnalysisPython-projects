@@ -5,7 +5,7 @@ from scipy.stats import linregress
 def draw_plot():
 
     # Read data from file
-    df = pd.read_csv('FreeCodeCamp\Data analysis\\boilerplate-sea-level-predictor\epa-sea-level.csv')
+    df = pd.read_csv('epa-sea-level.csv')
 
     # Create scatter plot
     years = df['Year']
