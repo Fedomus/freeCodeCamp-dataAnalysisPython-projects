@@ -1,7 +1,5 @@
 # Curso "Data Analysis with Python" - freeCodeCamp
 
-***
-
 ### Las carpetas contienen cada uno de los cinco proyectos finales con los que he aprobado el curso:
 
 1. <a href="https://github.com/Fedomus/freeCodeCamp-dataAnalysisPython-projects/tree/main/boilerplate-demographic-data-analyzer" target="_blank">Demogrphic Data Analyzer</a>
